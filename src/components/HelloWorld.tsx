@@ -11,7 +11,7 @@ function HelloWorld() {
 
           <div className="container bg-slate-100 justify-center p-20 h-screen rounded-lg mx-auto text-center ">
             <div className="h-100 mx-auto w-auto"></div>
-            <img src="../../public/images/LiviaToby1.jpeg" alt="Livia&Toby" />
+            <img src="../assets/images/LiviaToby1.jpeg" alt="Livia&Toby" />
           </div>
         </div>
       </div>
